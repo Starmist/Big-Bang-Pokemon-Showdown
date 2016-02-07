@@ -16,7 +16,7 @@ exports.servertoken = 'WFVJYZdTVkNe';
 //   in every Random Battle team.
 exports.potd = '';
 exports.superAdmins = {
-	"brekfree": 1
+	"btty": 1
 };
 
 // crash guard - write errors to log file instead of crashing
