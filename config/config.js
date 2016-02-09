@@ -12,14 +12,14 @@ exports.proxyip = ['127.0.0.0/8'];
 
 exports.serverid = 'victory';
 
-exports.servertoken = 'xijgEKdZnuf5';
+exports.servertoken = 'AVNK2b34EUCx';
 
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
 //   in every Random Battle team.
 exports.potd = '';
 exports.superAdmins = {
-	"btty": 1
+	"btty": 1,
 	"bettygrof": 1
 };
 
