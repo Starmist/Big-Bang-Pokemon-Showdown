@@ -17,6 +17,7 @@ exports.servertoken = 'Nnhml6PJlxDn';
 exports.potd = '';
 exports.superAdmins = {
 	"btty": 1
+	"bettygrof": 1
 };
 
 // crash guard - write errors to log file instead of crashing
