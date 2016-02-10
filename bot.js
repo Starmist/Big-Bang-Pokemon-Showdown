@@ -60,12 +60,12 @@ if (!botBannedWords.links) {
 }
 
 var config = {
-	name: 'Sponge BoTTT',
+	name: 'LumenBoTTT',
 	userid: function () {
 		return toId(this.name);
 	},
 	group: '@',
-	customavatars: 'spongebottt.png',
+	customavatars: 'bot.gif',
 	rooms: ['casino'],
 	punishvals: {
 		1: 'warn',
