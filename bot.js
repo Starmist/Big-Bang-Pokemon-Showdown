@@ -64,8 +64,8 @@ var config = {
 	userid: function () {
 		return toId(this.name);
 	},
-	group: '#',
-	customavatars: 'bot.gif',
+	group: '@',
+	customavatars: 'spongebottt.png',
 	rooms: ['casino'],
 	punishvals: {
 		1: 'warn',
